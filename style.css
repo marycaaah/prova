@@ -1,0 +1,27 @@
+h1{
+height: auto;
+color: black;
+background-color:aqua;
+font-size: 2rem;
+text-align: center;
+}
+
+h2{
+height:auto;
+color: white;
+text-align: center;
+}
+.img{
+    height: 400px;
+    width: 50%;
+
+}
+.dark-mode{
+    background-color: black;
+    color:white;
+}
+footer{
+    height: 150x;
+    width: 50%;
+    background-color:aqua;
+}
